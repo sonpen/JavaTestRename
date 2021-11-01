@@ -1,8 +1,5 @@
 package com.sonpen;
 
-/**
- * Created by 1109806 on 2020/11/25.
- */
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello Java");
